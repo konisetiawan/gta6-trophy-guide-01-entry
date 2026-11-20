@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#080a12">
+  <title>Leonida Ledger — GTA VI Trophy Guide</title>
+  <meta name="description" content="An offline-first guide and progress ledger for the 55 PlayStation 5 trophies of Grand Theft Auto VI.">
+  <link rel="stylesheet" href="./style.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <header class="masthead">
+    <a class="brand" href="#checklist" aria-label="Leonida Ledger home"><span class="brand-mark">LL</span><span><strong>LEONIDA</strong><small>LEDGER / VICE CITY FIELD NOTES</small></span></a>
+    <div class="edition"><span class="live-dot"></span> OFFLINE GUIDE <span class="edition-sep">/</span> PS5 · 55 TROPHIES</div>
+    <div class="header-actions"><button id="exportProgress" class="quiet-button">Export JSON</button><label class="quiet-button import-button" for="importFile">Import JSON</label><input id="importFile" type="file" accept="application/json,.json" hidden></div>
+  </header>
+
+  <section class="audit-wrap" aria-label="Data audit">
+    <div class="audit-label">LEDGER AUDIT</div><div id="auditStrip" class="audit-strip">Loading the ledger…</div>
+  </section>
+
+  <section class="overview" aria-label="Progress overview">
+    <div class="ring" id="progressRing" role="img" aria-label="0 percent of trophies earned"><span><b id="progressPercent">0%</b><small>COMPLETE</small></span></div>
+    <div class="overview-copy"><div class="eyebrow">YOUR RUN · <span id="earnedCount">0 / 55 earned</span></div><h1>One state. <em>Every story.</em></h1><p id="nextSuggestion">Next up: choose a trophy to plan your route.</p></div>
+    <div class="run-facts"><span><b>~200</b> hours</span><span><b>4/10</b> difficulty</span><span><b>1</b> playthrough</span><span><b>0</b> online</span></div>
+  </section>
+
+  <nav class="tabs" aria-label="Guide sections">
+    <button class="tab active" data-tab="checklist">Trophy ledger <span>55</span></button>
+    <button class="tab" data-tab="roadmap">Roadmap <span>7 stages</span></button>
+    <button class="tab" data-tab="missables">Missables <span>4 flags</span></button>
+    <button class="tab" data-tab="sources">Sources <span>7 refs</span></button>
+    <button class="tab" data-tab="completion">100% checklist <span>35 tasks</span></button>
+  </nav>
+
+  <main id="view" class="view" tabindex="-1"><div class="loading-card">Building the ledger from its local guide files…</div></main>
+  <footer><span>LEONIDA LEDGER <i>·</i> An independent fan-made reference</span><span>Works offline after files are served locally <i>·</i> Saved only in this browser</span></footer>
+  <noscript>This guide needs JavaScript enabled to load its local trophy data and save progress.</noscript>
+</body>
+</html>
