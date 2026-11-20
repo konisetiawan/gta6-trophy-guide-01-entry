@@ -1,0 +1,2260 @@
+[
+  {
+    "id": 1,
+    "name": "Vice Got a Price!",
+    "description": "Congratulations! You're a Leonida Legend.",
+    "grade": "platinum",
+    "kind": "platinum",
+    "stage": 7,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Complete the full trophy set, then verify the platinum award appears.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Vice Got a Price! and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Congratulations! You're a Leonida Legend. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Just Like Paradise",
+    "description": "Complete Gone Fishing.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 1,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Finish Gone Fishing and confirm its completion award.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Just Like Paradise and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete Gone Fishing. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Paradise Lost",
+    "description": "Complete Chapter 1.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 1,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Complete Chapter 1; handle the early meditation watch item before it closes.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Paradise Lost and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete Chapter 1. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "T**s Ass Drug Money",
+    "description": "Complete Chapter 2.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 2,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Advance the main story through Chapter 2 and check the award after its ending.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for T**s Ass Drug Money and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete Chapter 2. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Vice City, Baby!",
+    "description": "Complete Chapter 3.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Finish the Chapter 3 story arc and confirm the chapter trophy registered.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Vice City, Baby! and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete Chapter 3. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Top Of The World, Ma",
+    "description": "Complete Chapter 4.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Complete Chapter 4, then check the list before cleanup.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Top Of The World, Ma and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete Chapter 4. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "You Gotta Know When to Get Off",
+    "description": "Complete the final mission.",
+    "grade": "gold",
+    "kind": "story",
+    "stage": 7,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": {
+      "note": "Sources assign the finale to different chapters.",
+      "versions": [
+        {
+          "source": 1,
+          "text": "Chapter 4"
+        },
+        {
+          "source": 2,
+          "text": "Chapter 5"
+        }
+      ]
+    },
+    "hidden": true,
+    "sources": [
+      1,
+      3
+    ],
+    "guide": "Complete the finale. The chapter label differs by source; follow the final mission marker.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for You Gotta Know When to Get Off and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete the final mission. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          3
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Trust",
+    "description": "Complete Breakfast Run.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 1,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Track Breakfast Run in the story log, complete it, and verify the award.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Trust and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete Breakfast Run. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Break the Bank",
+    "description": "Complete The Cartel Heist.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 2,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Complete The Cartel Heist from the story sequence and confirm its trophy.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Break the Bank and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete The Cartel Heist. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Family Matters",
+    "description": "Complete Child's Play.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 2,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Complete Child's Play and check the list before leaving the mission flow.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Family Matters and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete Child's Play. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "DWNFALL",
+    "description": "Complete Headliners.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Finish Headliners and make sure completion has been recorded.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for DWNFALL and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete Headliners. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Hi-Jacked",
+    "description": "Complete VCIA Takedown.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Complete VCIA Takedown and verify its mission trophy.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Hi-Jacked and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete VCIA Takedown. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Snow Storm",
+    "description": "Complete Operation Savage Glory.",
+    "grade": "bronze",
+    "kind": "story",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Finish Operation Savage Glory and check after the debrief.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Snow Storm and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete Operation Savage Glory. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "A Long Road",
+    "description": "Attain 100% Completion.",
+    "grade": "gold",
+    "kind": "completion",
+    "stage": 7,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      3
+    ],
+    "guide": "Use the in-game completion tracker as the checklist of record; clear each required category.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for A Long Road and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Attain 100% Completion. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          3
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Cunning Stunts",
+    "description": "Complete 250 Stunts.",
+    "grade": "silver",
+    "kind": "activities",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Build a repeatable route, tally attempts, and stop when the game records 250.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Cunning Stunts and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete 250 Stunts. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Master of None",
+    "description": "Try each type of activity once.",
+    "grade": "bronze",
+    "kind": "activities",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Sample every activity category at least once and review the log for gaps.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Master of None and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Try each type of activity once. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "The Shootist",
+    "description": "Earn a gold medal in all Shooting Range challenges.",
+    "grade": "silver",
+    "kind": "activities",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Work through every range challenge; replay rounds until each medal is gold.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for The Shootist and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Earn a gold medal in all Shooting Range challenges. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Top Fun",
+    "description": "Win a Top Fun Drone Race at every location.",
+    "grade": "bronze",
+    "kind": "activities",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Visit each Drone Race location, win there, and mark it off as you go.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Top Fun and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Win a Top Fun Drone Race at every location. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Earn Cash, Not Kudos",
+    "description": "Win 20 different races.",
+    "grade": "bronze",
+    "kind": "activities",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Prioritize distinct race events and avoid counting repeat wins on one course.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Earn Cash, Not Kudos and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Win 20 different races. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Baited My Tackle",
+    "description": "Beat Cal in a fishing challenge.",
+    "grade": "bronze",
+    "kind": "activities",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Start Cal's fishing challenge, learn its scoring rhythm, and finish ahead.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Baited My Tackle and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Beat Cal in a fishing challenge. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Stick Fiddler",
+    "description": "Complete an arcade game.",
+    "grade": "bronze",
+    "kind": "activities",
+    "stage": 3,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      3
+    ],
+    "guide": "Choose an arcade cabinet, finish one full game, and confirm completion.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Stick Fiddler and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete an arcade game. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          3
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Road to Rehabilitation",
+    "description": "Complete the final mission for Andy.",
+    "grade": "bronze",
+    "kind": "side",
+    "stage": 2,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Follow Andy's strand through its finale and verify the character award.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Road to Rehabilitation and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete the final mission for Andy. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "name": "This Was No Boat Accident",
+    "description": "Complete the final mission for Kenton.",
+    "grade": "bronze",
+    "kind": "side",
+    "stage": 2,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Advance Kenton's strand to its final mission and check the trophy.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for This Was No Boat Accident and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete the final mission for Kenton. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "name": "The Lone Rider",
+    "description": "Complete the final mission for Billy.",
+    "grade": "bronze",
+    "kind": "side",
+    "stage": 2,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Complete Billy's strand through its final mission, then confirm the award.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for The Lone Rider and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete the final mission for Billy. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Strangers & Freaks",
+    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+    "grade": "silver",
+    "kind": "side",
+    "stage": 6,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": {
+      "note": "Which stranger strands qualify is still being checked.",
+      "versions": [
+        {
+          "source": 1,
+          "text": "The guide list includes its named stranger strands."
+        },
+        {
+          "source": 2,
+          "text": "The qualifying set is unsettled; race Yago at first availability in Chapter 3."
+        }
+      ]
+    },
+    "hidden": true,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Complete eight distinct stranger strands. Eligibility is disputed; race Yago as soon as he appears in Chapter 3 and keep a strand log.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Strangers & Freaks and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete 8 mission strands for strangers across the state of Leonida. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Supply & Demand",
+    "description": "Complete the final mission for Randy.",
+    "grade": "bronze",
+    "kind": "side",
+    "stage": 2,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Finish Randy's strand finale and verify its trophy registered.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Supply & Demand and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete the final mission for Randy. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Spin On This!",
+    "description": "Complete the final mission for Tyrone.",
+    "grade": "bronze",
+    "kind": "side",
+    "stage": 2,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": true,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Follow Tyrone's strand to its last mission and confirm the award.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Spin On This! and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete the final mission for Tyrone. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Positive Mental Attitude",
+    "description": "Meditate at every spot across Leonida.",
+    "grade": "bronze",
+    "kind": "side",
+    "stage": 2,
+    "missable_status": "possibly missable",
+    "confirm_status": "listed",
+    "disagree": {
+      "note": "Sources differ on whether the early balcony meditation is required.",
+      "versions": [
+        {
+          "source": 1,
+          "text": "The Chapter 1 balcony meditation after Down to Earth is required."
+        },
+        {
+          "source": 2,
+          "text": "Whether that stop is required is uncertain."
+        }
+      ]
+    },
+    "hidden": true,
+    "sources": [
+      1,
+      3
+    ],
+    "guide": "Visit every known spot. Meditate on the balcony the morning after Down to Earth, before Chapter 1 ends.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Positive Mental Attitude and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Meditate at every spot across Leonida. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          3
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Fair Game",
+    "description": "Hunt a unique animal for Bret.",
+    "grade": "bronze",
+    "kind": "side",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "unconfirmed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Take Bret's hunt assignment and pursue a unique animal; the exact trigger is unconfirmed.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Fair Game and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Hunt a unique animal for Bret. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Don't Touch My Deck",
+    "description": "Complete 3 Collectible Card sets.",
+    "grade": "silver",
+    "kind": "collectibles",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Collect enough cards to finish three sets; use the tracker to identify gaps.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Don't Touch My Deck and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete 3 Collectible Card sets. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "You WAiNKer!",
+    "description": "WAiNK It at 100 locations.",
+    "grade": "silver",
+    "kind": "world",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Use WAiNK at varied locations, tallying uses until the game counts 100.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for You WAiNKer! and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: WAiNK It at 100 locations. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "One Last Thing",
+    "description": "Complete 50 Challenges.",
+    "grade": "bronze",
+    "kind": "completion",
+    "stage": 6,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Choose varied challenge entries, complete fifty, and confirm the counter.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for One Last Thing and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Complete 50 Challenges. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Hot Together",
+    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+    "grade": "bronze",
+    "kind": "crime",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "With your partner present, reach four stars, break pursuit, and wait for the wanted state to clear.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Hot Together and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Lose a 4 star Wanted Level with your partner and escape the heat. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Retail Therapy",
+    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+    "grade": "bronze",
+    "kind": "crime",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Plan a route linking three shops; keep the wanted state active between robberies and escape afterward.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Retail Therapy and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Rob 3 shops back-to-back with your partner without losing your Wanted Level. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Whip It Good",
+    "description": "Discover 100 vehicles.",
+    "grade": "bronze",
+    "kind": "world",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Discover unfamiliar vehicle types as you travel until the tracker reaches 100.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Whip It Good and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Discover 100 vehicles. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Gunslinger",
+    "description": "Take down 5 enemies in a single use of Combat Focus.",
+    "grade": "bronze",
+    "kind": "crime",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Save Combat Focus for at least five enemies and attempt all takedowns in one activation.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Gunslinger and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Take down 5 enemies in a single use of Combat Focus. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Catch Me If You Can",
+    "description": "Make an unscheduled departure at VCIA.",
+    "grade": "bronze",
+    "kind": "world",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "At VCIA, trigger an unscheduled departure and stay with the event until it registers.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Catch Me If You Can and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Make an unscheduled departure at VCIA. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Challenging Tank",
+    "description": "Kinda hot in these Rhinos.",
+    "grade": "bronze",
+    "kind": "misc",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Use the hint to experiment with Rhino tank play; check for the award afterward.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Challenging Tank and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Kinda hot in these Rhinos. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Sneakthief",
+    "description": "Rob a jewelry store without being detected.",
+    "grade": "bronze",
+    "kind": "crime",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Approach quietly, avoid alerting staff or witnesses, and leave after the robbery completes.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Sneakthief and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Rob a jewelry store without being detected. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Maximum Withdrawal",
+    "description": "Rob 5 Bank Vaults and escape.",
+    "grade": "silver",
+    "kind": "crime",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": {
+      "note": "The grade conflicts between the supplied list and one guide.",
+      "versions": [
+        {
+          "source": 6,
+          "text": "Silver (supplied list)"
+        },
+        {
+          "source": 2,
+          "text": "Bronze (Push Square)"
+        }
+      ]
+    },
+    "hidden": false,
+    "sources": [
+      6,
+      2
+    ],
+    "guide": "Complete five vault robberies and escape each time. Keep the supplied Silver grade; one guide says Bronze.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Maximum Withdrawal and note the in-game counter before starting.",
+        "cites": [
+          0
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Rob 5 Bank Vaults and escape. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "A Classic Blitz Play",
+    "description": "Rob an Armored Truck and escape.",
+    "grade": "bronze",
+    "kind": "crime",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Intercept an armored truck, take its contents, and escape the response.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for A Classic Blitz Play and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Rob an Armored Truck and escape. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "The Goodtime State",
+    "description": "Explore all of Leonida.",
+    "grade": "bronze",
+    "kind": "world",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      3
+    ],
+    "guide": "Sweep the map systematically, checking the exploration tracker for uncovered areas.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for The Goodtime State and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Explore all of Leonida. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          3
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Pest Control",
+    "description": "Rob an Illegal Operation belonging to each gang.",
+    "grade": "bronze",
+    "kind": "crime",
+    "stage": 4,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Rob an illegal operation for every gang, logging which groups remain.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Pest Control and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Rob an Illegal Operation belonging to each gang. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "In The Beginning…",
+    "description": "Enjoy a cocktail with a view on Ocean Beach.",
+    "grade": "bronze",
+    "kind": "misc",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "At Ocean Beach, find a suitable view and order a cocktail; confirm the scene trigger.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for In The Beginning… and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Enjoy a cocktail with a view on Ocean Beach. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Capital Offense",
+    "description": "Smash your way out of a vehicle showroom in classic style.",
+    "grade": "bronze",
+    "kind": "misc",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Enter a vehicle showroom and make the forceful escape suggested by the title.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Capital Offense and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Smash your way out of a vehicle showroom in classic style. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Let’s Go Bowling",
+    "description": "Follow-through at the Kolt & Associates' bowling alley.",
+    "grade": "bronze",
+    "kind": "misc",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Visit the Kolt & Associates bowling alley and complete the follow-through interaction.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Let’s Go Bowling and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Follow-through at the Kolt & Associates' bowling alley. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Personal Best",
+    "description": "A partnership with mass appeal.",
+    "grade": "bronze",
+    "kind": "misc",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Look for a partnership activity with broad appeal; verify the trigger in the list.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Personal Best and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: A partnership with mass appeal. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Actions Speak Louder",
+    "description": "Choices made (for better or worse).",
+    "grade": "bronze",
+    "kind": "misc",
+    "stage": 6,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Make a consequential story choice, then inspect the list; the description gives no exact condition.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Actions Speak Louder and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Choices made (for better or worse). Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Bad Luck, I Guess",
+    "description": "Second time's the charm.",
+    "grade": "bronze",
+    "kind": "misc",
+    "stage": 6,
+    "missable_status": "not flagged",
+    "confirm_status": "unconfirmed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      3
+    ],
+    "guide": "Try the hinted action again after the first attempt; its exact condition remains unconfirmed.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Bad Luck, I Guess and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Second time's the charm. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          3
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "name": "The Truth Is Out There",
+    "description": "What the hell just happened?",
+    "grade": "bronze",
+    "kind": "misc",
+    "stage": 6,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Explore unusual events and investigate the clue implied by the title; trigger details are unclear.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for The Truth Is Out There and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: What the hell just happened?. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Ten Pin",
+    "description": "Bowl 'em over with a melee drive-by.",
+    "grade": "bronze",
+    "kind": "misc",
+    "stage": 6,
+    "missable_status": "not flagged",
+    "confirm_status": "unconfirmed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Attempt a melee drive-by near bowling activity; vary one condition at a time because the trigger is unconfirmed.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Ten Pin and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Bowl 'em over with a melee drive-by. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Dime on the Dollar",
+    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+    "grade": "bronze",
+    "kind": "money",
+    "stage": 6,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Route Marked Bills through contacts, track the total, and continue to $250,000.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Dime on the Dollar and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Earn $250,000 laundering Marked Bills through your contacts. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Treat Yo Self",
+    "description": "Spend $100,000 across all shops.",
+    "grade": "bronze",
+    "kind": "money",
+    "stage": 6,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "Spend across shop categories and monitor cumulative spending to $100,000.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Treat Yo Self and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Spend $100,000 across all shops. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Little Boxes",
+    "description": "Purchase all garage properties.",
+    "grade": "bronze",
+    "kind": "money",
+    "stage": 6,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2
+    ],
+    "guide": "List every garage property, purchase each, and revisit the property tracker for omissions.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for Little Boxes and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Purchase all garage properties. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "name": "On the Spot",
+    "description": "Register 10 vehicles to the Scooter Bros app.",
+    "grade": "bronze",
+    "kind": "world",
+    "stage": 5,
+    "missable_status": "not flagged",
+    "confirm_status": "listed",
+    "disagree": null,
+    "hidden": false,
+    "sources": [
+      1,
+      2,
+      4
+    ],
+    "guide": "Register ten vehicles through the Scooter Bros app and verify its count.",
+    "steps": [
+      {
+        "n": 1,
+        "text": "Open the relevant story, activity, strand, or world task for On the Spot and note the in-game counter before starting.",
+        "cites": [
+          1
+        ]
+      },
+      {
+        "n": 2,
+        "text": "Work toward the stated condition: Register 10 vehicles to the Scooter Bros app. Keep a tally for repeatable or multi-part requirements.",
+        "cites": [
+          2
+        ]
+      },
+      {
+        "n": 3,
+        "text": "After completion, check the trophy screen and related tracker; use the flags above if the trigger is uncertain or disputed.",
+        "cites": [
+          4
+        ]
+      }
+    ]
+  }
+]
