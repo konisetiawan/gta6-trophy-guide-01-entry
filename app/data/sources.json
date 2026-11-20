@@ -1,0 +1,65 @@
+[
+  {
+    "number": 1,
+    "name": "PowerPyx — GTA 6 Trophy Guide & Roadmap",
+    "url": "https://www.powerpyx.com/gta-6-grand-theft-auto-vi-trophy-guide-roadmap/",
+    "coverage_count": 54,
+    "read_date": null,
+    "read": false,
+    "note": "Requested reference; not fetched because the egress proxy was unreachable. Coverage count records assigned citation links, not verified page coverage."
+  },
+  {
+    "number": 2,
+    "name": "Push Square — GTA 6 Trophy Guide and Roadmap",
+    "url": "https://www.pushsquare.com/guides/gta-6-trophy-guide-and-roadmap",
+    "coverage_count": 49,
+    "read_date": null,
+    "read": false,
+    "note": "Requested reference; not fetched because the egress proxy was unreachable. Coverage count records assigned citation links, not verified page coverage."
+  },
+  {
+    "number": 3,
+    "name": "Insider Gaming — Complete GTA 6 Trophy List",
+    "url": "https://insider-gaming.com/complete-gta-6-trophy-list-how-to-get-all-trophies-achievements/",
+    "coverage_count": 6,
+    "read_date": null,
+    "read": false,
+    "note": "Requested reference; not fetched because the egress proxy was unreachable. Coverage count records assigned citation links, not verified page coverage."
+  },
+  {
+    "number": 4,
+    "name": "KeenGamer — GTA 6 Trophy Guide & Platinum Roadmap",
+    "url": "https://www.keengamer.com/articles/guides/gta-6-trophy-guide-platinum-roadmap-all-55-trophies/",
+    "coverage_count": 10,
+    "read_date": null,
+    "read": false,
+    "note": "Requested reference; not fetched because the egress proxy was unreachable. Coverage count records assigned citation links, not verified page coverage."
+  },
+  {
+    "number": 5,
+    "name": "PlayStation — trophy list publication check",
+    "url": "https://www.playstation.com/",
+    "coverage_count": 0,
+    "read_date": null,
+    "read": false,
+    "note": "The bounty brief says Rockstar has published no trophy list of its own; not independently verified."
+  },
+  {
+    "number": 6,
+    "name": "Exophase — trophy list mirror",
+    "url": "https://www.exophase.com/",
+    "coverage_count": 1,
+    "read_date": null,
+    "read": false,
+    "note": "The bounty brief identifies Exophase as a mirror; not independently fetched."
+  },
+  {
+    "number": 7,
+    "name": "PSNProfiles — trophy list mirror",
+    "url": "https://psnprofiles.com/",
+    "coverage_count": 0,
+    "read_date": null,
+    "read": false,
+    "note": "The bounty brief identifies PSNProfiles as a mirror; not independently fetched."
+  }
+]
