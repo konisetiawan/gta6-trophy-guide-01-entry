@@ -1,7 +1,11 @@
 # Leonida Ledger
 
-An offline-first, single-page tracker for the 55 GTA VI PlayStation 5 trophies. The guide is plain HTML, CSS, and an ES module; serve the app folder over HTTP and open index.html in a browser. Progress stays in that browser unless you export a JSON backup.
+An offline, static GTA VI trophy guide and tracker for all 55 PS5 trophies.
 
-Running node main.ts packages app/ and screenshots/ into MAKEFUN_OUTPUT_DIR (defaults to /output) and creates the make.fun dossier. No build step or runtime service is required.
+Open app/index.html in a desktop browser; no internet connection is needed.
 
-Guide methods and source links are marked with their access status. The required guide pages could not be fetched during this build, so verify source notes and uncertain triggers before relying on them. This project is an independent fan reference and contains no game art or branding assets.
+Names, descriptions, grades, and hidden flags come from the PS5 list supplied in the bounty kit, identified there as mirrored by Exophase and PSNProfiles.
+
+Rockstar has published no trophy list of its own, according to the brief; this was not independently checked here.
+
+Guide methods remain unverified until launch-day guides and player reports can be checked.
