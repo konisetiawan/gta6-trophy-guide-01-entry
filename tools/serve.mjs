@@ -1,32 +1,40 @@
-import { createServer } from 'node:http';
-import { readFile } from 'node:fs/promises';
-import { extname, resolve, sep } from 'node:path';
+import http from 'node:http';
+import fs from 'node:fs';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
-const root = resolve('app');
-const port = Number(process.env.PORT || 4177);
-const types = {
-  '.css': 'text/css; charset=utf-8',
-  '.html': 'text/html; charset=utf-8',
-  '.js': 'text/javascript; charset=utf-8',
-  '.json': 'application/json; charset=utf-8',
-  '.svg': 'image/svg+xml',
-};
+const appRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..', 'app');
+const types = new Map([
+  ['.html', 'text/html; charset=utf-8'],
+  ['.css', 'text/css; charset=utf-8'],
+  ['.js', 'text/javascript; charset=utf-8'],
+  ['.json', 'application/json; charset=utf-8'],
+]);
 
-createServer(async (request, response) => {
+const server = http.createServer((request, response) => {
+  let pathname;
   try {
-    const pathname = decodeURIComponent(new URL(request.url, 'http://' + request.headers.host).pathname);
-    const relative = pathname === '/' ? 'index.html' : pathname.replace(/^\/+/, '');
-    const target = resolve(root, relative);
-    if (target !== root && !target.startsWith(root + sep)) {
-      response.writeHead(403).end('Forbidden');
+    pathname = decodeURIComponent(new URL(request.url, 'http://localhost').pathname);
+  } catch {
+    response.writeHead(400).end('Bad request');
+    return;
+  }
+  if (pathname === '/') pathname = '/index.html';
+  const filePath = path.resolve(appRoot, '.' + pathname);
+  if (!filePath.startsWith(appRoot + path.sep)) {
+    response.writeHead(403).end('Forbidden');
+    return;
+  }
+  fs.readFile(filePath, (error, content) => {
+    if (error) {
+      response.writeHead(error.code === 'ENOENT' ? 404 : 500).end('Not found');
       return;
     }
-    const body = await readFile(target);
-    response.writeHead(200, { 'content-type': types[extname(target)] || 'application/octet-stream' });
-    response.end(body);
-  } catch {
-    response.writeHead(404).end('Not found');
-  }
-}).listen(port, '127.0.0.1', () => {
-  process.stdout.write('Serving app/ at http://127.0.0.1:' + port + '/\n');
+    response.writeHead(200, { 'Content-Type': types.get(path.extname(filePath)) || 'application/octet-stream' });
+    response.end(content);
+  });
+});
+
+server.listen(Number(process.env.PORT) || 0, '127.0.0.1', () => {
+  console.log('PORT=' + server.address().port);
 });
